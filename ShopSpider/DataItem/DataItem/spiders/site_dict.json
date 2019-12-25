@@ -1,0 +1,34 @@
+{
+  "http://products.kuyun.loc/api/": {
+    "url": "http://products.kuyun.loc/api/",
+    "headers": {
+      "api-key": "admin@admin.org",
+      "api-token": "TdPBrjxzpL+IFtIAv8q3Wp+IoROQNdD/wtmyABjbha4=",
+      "Content-Type": "application/json"
+    }
+  },
+  "http://testpl.kydev.org/api/": {
+    "url": "http://testpl.kydev.org/api/",
+    "headers": {
+      "api-key": "kuyun@olmail.org",
+      "api-token": "TdPBrjxzpL+IFtIAv8q3Wp+IoROQNdD/wtmyABjbha4=",
+      "Content-Type": "application/json"
+    }
+  },
+  "http://release.pl.kydev.org/api/": {
+    "url": "http://release.pl.kydev.org/api/",
+    "headers": {
+      "api-key": "kuyun@olmail.org",
+      "api-token": "TdPBrjxzpL+IFtIAv8q3Wp+IoROQNdD/wtmyABjbha4=",
+      "Content-Type": "application/json"
+    }
+  },
+  "http://pl.kydev.org/api/": {
+    "url": "http://pl.kydev.org/api/",
+    "headers": {
+    "api-key": "kuyun@olmail.org",
+    "api-token": "TdPBrjxzpL+IFtIAv8q3Wp+IoROQNdD/wtmyABjbha4=",
+      "Content-Type": "application/json"
+    }
+  }
+}
